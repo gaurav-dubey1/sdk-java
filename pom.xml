@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.nashtechglobal</groupId>
+	<artifactId>sdkjava</artifactId>
+	<version>0.0.1</version>
+	<packaging>pom</packaging>
+	<name>sdkjava</name>
+	<description>SDK project for NashTech Global</description>
+
+	<modules>
+		<module>sdkjava-circuitbreaker</module>
+		<module>sdkjava-bulkhead</module>
+		<module>sdkjava-retry</module>
+		<module>sdkjava-ratelimiter</module>
+		<module>sdkjava-timelimiter</module>
+		<module>sdkjava-cache</module>
+		<module>sdkjava-annotations</module>
+	</modules>
+
+
+</project>
