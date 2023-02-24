@@ -1,1 +1,1 @@
-# sdk-java
+# sdk-java library
