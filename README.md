@@ -1,1 +1,1 @@
-# sdk-java library
+# Nashtech sdk-java library
